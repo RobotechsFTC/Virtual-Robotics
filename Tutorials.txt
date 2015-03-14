@@ -1,0 +1,5 @@
+Brandon - First download this git directory, next navigate to Virtual-Robotics Unity.
+Inside this folder open up the Assets directory. In this directory you will see the scenes folder.
+Open the Scenes folder and open the main.unity file in your unity editor. Click GameObject on the
+file menu above, and from the dropdown select 3D Object->Terrain. Once finished save the file
+and upload to github.
